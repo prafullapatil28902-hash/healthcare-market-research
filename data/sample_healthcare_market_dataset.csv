@@ -1,0 +1,64 @@
+company,company_type,headquarters,product,therapeutic_area,indication,phase,approval_year,patent_expiry_year,region,revenue_usd_m,market_size_usd_m,growth_rate_pct
+Novo Nordisk,Pharma,Denmark,Ozempic,Diabetes,Type 2 Diabetes,Marketed,2017,2031,North America,9000,95000,9.5
+Novo Nordisk,Pharma,Denmark,Ozempic,Diabetes,Type 2 Diabetes,Marketed,2017,2031,Europe,3000,48000,7.2
+Novo Nordisk,Pharma,Denmark,Ozempic,Diabetes,Type 2 Diabetes,Marketed,2017,2031,Asia-Pacific,1500,42000,12.4
+Novo Nordisk,Pharma,Denmark,Rybelsus,Diabetes,Type 2 Diabetes,Marketed,2019,2031,North America,1300,95000,9.5
+Novo Nordisk,Pharma,Denmark,Rybelsus,Diabetes,Type 2 Diabetes,Marketed,2019,2031,Europe,500,48000,7.2
+Novo Nordisk,Pharma,Denmark,Victoza,Diabetes,Type 2 Diabetes,Marketed,2010,2023,North America,800,95000,9.5
+Novo Nordisk,Pharma,Denmark,Victoza,Diabetes,Type 2 Diabetes,Marketed,2010,2023,Europe,450,48000,7.2
+Novo Nordisk,Pharma,Denmark,Tresiba,Diabetes,Type 2 Diabetes,Marketed,2015,2029,North America,900,95000,9.5
+Novo Nordisk,Pharma,Denmark,Tresiba,Diabetes,Type 2 Diabetes,Marketed,2015,2029,Asia-Pacific,400,42000,12.4
+Eli Lilly,Pharma,USA,Trulicity,Diabetes,Type 2 Diabetes,Marketed,2014,2027,North America,5000,95000,9.5
+Eli Lilly,Pharma,USA,Trulicity,Diabetes,Type 2 Diabetes,Marketed,2014,2027,Europe,1300,48000,7.2
+Eli Lilly,Pharma,USA,Trulicity,Diabetes,Type 2 Diabetes,Marketed,2014,2027,Asia-Pacific,700,42000,12.4
+Eli Lilly,Pharma,USA,Mounjaro,Diabetes,Type 2 Diabetes,Marketed,2022,2036,North America,4200,95000,9.5
+Eli Lilly,Pharma,USA,Mounjaro,Diabetes,Type 2 Diabetes,Marketed,2022,2036,Europe,600,48000,7.2
+Eli Lilly,Pharma,USA,Humalog,Diabetes,Type 1 Diabetes,Marketed,1996,2013,North America,1100,95000,9.5
+Eli Lilly,Pharma,USA,Humalog,Diabetes,Type 1 Diabetes,Marketed,1996,2013,Asia-Pacific,400,42000,12.4
+Sanofi,Pharma,France,Lantus,Diabetes,Type 1 Diabetes,Marketed,2000,2015,North America,1400,95000,9.5
+Sanofi,Pharma,France,Lantus,Diabetes,Type 1 Diabetes,Marketed,2000,2015,Europe,900,48000,7.2
+Sanofi,Pharma,France,Toujeo,Diabetes,Type 1 Diabetes,Marketed,2015,2031,North America,600,95000,9.5
+AstraZeneca,Pharma,UK,Farxiga,Diabetes,Type 2 Diabetes,Marketed,2014,2025,North America,1800,95000,9.5
+AstraZeneca,Pharma,UK,Farxiga,Diabetes,Type 2 Diabetes,Marketed,2014,2025,Europe,1200,48000,7.2
+AstraZeneca,Pharma,UK,Farxiga,Diabetes,Type 2 Diabetes,Marketed,2014,2025,Asia-Pacific,1400,42000,12.4
+Boehringer Ingelheim,Pharma,Germany,Jardiance,Diabetes,Type 2 Diabetes,Marketed,2014,2025,North America,3200,95000,9.5
+Boehringer Ingelheim,Pharma,Germany,Jardiance,Diabetes,Type 2 Diabetes,Marketed,2014,2025,Europe,1700,48000,7.2
+Boehringer Ingelheim,Pharma,Germany,Jardiance,Diabetes,Type 2 Diabetes,Marketed,2014,2025,Asia-Pacific,1100,42000,12.4
+Merck,Pharma,USA,Keytruda,Oncology,Non-Small Cell Lung Cancer,Marketed,2014,2028,North America,15000,110000,11.8
+Merck,Pharma,USA,Keytruda,Oncology,Non-Small Cell Lung Cancer,Marketed,2014,2028,Europe,6000,62000,9.4
+Merck,Pharma,USA,Keytruda,Oncology,Non-Small Cell Lung Cancer,Marketed,2014,2028,Asia-Pacific,4000,55000,14.2
+Bristol Myers Squibb,Pharma,USA,Opdivo,Oncology,Melanoma,Marketed,2014,2028,North America,4500,110000,11.8
+Bristol Myers Squibb,Pharma,USA,Opdivo,Oncology,Melanoma,Marketed,2014,2028,Europe,2500,62000,9.4
+Bristol Myers Squibb,Pharma,USA,Opdivo,Oncology,Melanoma,Marketed,2014,2028,Asia-Pacific,2000,55000,14.2
+Bristol Myers Squibb,Pharma,USA,Revlimid,Oncology,Multiple Myeloma,Marketed,2005,2022,North America,6000,110000,11.8
+Bristol Myers Squibb,Pharma,USA,Revlimid,Oncology,Multiple Myeloma,Marketed,2005,2022,Europe,2200,62000,9.4
+Roche,Pharma,Switzerland,Avastin,Oncology,Colorectal Cancer,Marketed,2004,2019,North America,1800,110000,11.8
+Roche,Pharma,Switzerland,Avastin,Oncology,Colorectal Cancer,Marketed,2004,2019,Asia-Pacific,1700,55000,14.2
+Roche,Pharma,Switzerland,Herceptin,Oncology,Breast Cancer,Marketed,1998,2019,Europe,1300,62000,9.4
+Roche,Pharma,Switzerland,Herceptin,Oncology,Breast Cancer,Marketed,1998,2019,Asia-Pacific,1500,55000,14.2
+Roche,Pharma,Switzerland,Tecentriq,Oncology,Non-Small Cell Lung Cancer,Marketed,2016,2030,North America,2000,110000,11.8
+Roche,Pharma,Switzerland,Tecentriq,Oncology,Non-Small Cell Lung Cancer,Marketed,2016,2030,Europe,1100,62000,9.4
+AstraZeneca,Pharma,UK,Tagrisso,Oncology,Non-Small Cell Lung Cancer,Marketed,2015,2032,North America,2200,110000,11.8
+AstraZeneca,Pharma,UK,Tagrisso,Oncology,Non-Small Cell Lung Cancer,Marketed,2015,2032,Asia-Pacific,2100,55000,14.2
+AstraZeneca,Pharma,UK,Lynparza,Oncology,Ovarian Cancer,Marketed,2014,2028,North America,1300,110000,11.8
+AstraZeneca,Pharma,UK,Lynparza,Oncology,Ovarian Cancer,Marketed,2014,2028,Europe,900,62000,9.4
+AstraZeneca,Pharma,UK,Imfinzi,Oncology,Non-Small Cell Lung Cancer,Marketed,2017,2031,North America,2200,110000,11.8
+AstraZeneca,Pharma,UK,Imfinzi,Oncology,Non-Small Cell Lung Cancer,Marketed,2017,2031,Asia-Pacific,900,55000,14.2
+Pfizer,Pharma,USA,Ibrance,Oncology,Breast Cancer,Marketed,2015,2027,North America,3000,110000,11.8
+Pfizer,Pharma,USA,Ibrance,Oncology,Breast Cancer,Marketed,2015,2027,Europe,1200,62000,9.4
+Novartis,Pharma,Switzerland,Kisqali,Oncology,Breast Cancer,Marketed,2017,2031,North America,1100,110000,11.8
+Novartis,Pharma,Switzerland,Kisqali,Oncology,Breast Cancer,Marketed,2017,2031,Asia-Pacific,300,55000,14.2
+Bristol Myers Squibb,Pharma,USA,Eliquis,Cardiovascular,Anticoagulation,Marketed,2012,2026,North America,11000,60000,6.4
+Bristol Myers Squibb,Pharma,USA,Eliquis,Cardiovascular,Anticoagulation,Marketed,2012,2026,Europe,4500,38000,5.1
+Bristol Myers Squibb,Pharma,USA,Eliquis,Cardiovascular,Anticoagulation,Marketed,2012,2026,Asia-Pacific,2500,40000,8.9
+Bayer,Pharma,Germany,Xarelto,Cardiovascular,Anticoagulation,Marketed,2011,2024,North America,1500,60000,6.4
+Bayer,Pharma,Germany,Xarelto,Cardiovascular,Anticoagulation,Marketed,2011,2024,Europe,3000,38000,5.1
+Bayer,Pharma,Germany,Xarelto,Cardiovascular,Anticoagulation,Marketed,2011,2024,Asia-Pacific,2000,40000,8.9
+Novartis,Pharma,Switzerland,Entresto,Cardiovascular,Heart Failure,Marketed,2015,2027,North America,3200,60000,6.4
+Novartis,Pharma,Switzerland,Entresto,Cardiovascular,Heart Failure,Marketed,2015,2027,Europe,1700,38000,5.1
+Novartis,Pharma,Switzerland,Entresto,Cardiovascular,Heart Failure,Marketed,2015,2027,Asia-Pacific,1100,40000,8.9
+Amgen,Biotech,USA,Repatha,Cardiovascular,Hypercholesterolemia,Marketed,2015,2028,North America,1100,60000,6.4
+Amgen,Biotech,USA,Repatha,Cardiovascular,Hypercholesterolemia,Marketed,2015,2028,Europe,500,38000,5.1
+Amgen,Biotech,USA,Repatha,Cardiovascular,Hypercholesterolemia,Marketed,2015,2028,Asia-Pacific,400,40000,8.9
+Sanofi,Pharma,France,Praluent,Cardiovascular,Hypercholesterolemia,Marketed,2015,2029,North America,300,60000,6.4
+Sanofi,Pharma,France,Praluent,Cardiovascular,Hypercholesterolemia,Marketed,2015,2029,Europe,200,38000,5.1
